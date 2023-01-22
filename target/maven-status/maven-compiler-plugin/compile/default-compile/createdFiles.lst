@@ -1,0 +1,7 @@
+com\pagefactory\SeleniumPageFactory.class
+com\util\BaseConfig.class
+com\util\Contants.class
+com\util\ScreenShot.class
+com\util\ContantsWithEncapsulation.class
+com\util\HighLighter.class
+com\util\SeleniumWait.class
